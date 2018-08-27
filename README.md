@@ -8,7 +8,7 @@ Crawling Reddit.com and then anaylzing it with taken data in the first step.
   <li> HTML, CSS and JavaScript for analyzing the data taken from the crawling step </li>
 </ul>
 
-<h4> What this app does </h4>
+<h4> About app </h4>
 <ul>
   <li> Read Reddit.com and create JSON objects with desired attributes </li>
   <li> Create statistics via JavaScript from data taken </li>
