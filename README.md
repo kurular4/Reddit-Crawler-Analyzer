@@ -14,7 +14,7 @@ Crawling Reddit.com and then anaylzing it with taken data in the first step.
   <li> Create statistics via JavaScript from data taken </li>
   </ul>
 
-<h4> What statistics do this app create </h4>
+<h4> What statistics this app creates </h4>
 <ul> 
 <li> Average number of comments per post </li>
 <li> Rate of photographed posts </li>
